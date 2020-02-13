@@ -1,14 +1,14 @@
 {
   "tasks": [
     {"ready": false, "task": "Task 1"},
-    {"ready": false, , "task": "Task 2"},
-    {"ready": false, , "task": "Task 3"},
-    {"ready": false, , "task": "Task 4"},
-    {"ready": false, , "task": "Task 5"},
-    {"ready": false, , "task": "Task 6"},
-    {"ready": false, , "task": "Task 7"},
-    {"ready": false, , "task": "Task 8"},
-    {"ready": false, , "task": "Task 9"},
-    {"ready": false, , "task": "Task 10"}
+    {"ready": false, "task": "Task 2"},
+    {"ready": false, "task": "Task 3"},
+    {"ready": false, "task": "Task 4"},
+    {"ready": false, "task": "Task 5"},
+    {"ready": false, "task": "Task 6"},
+    {"ready": false, "task": "Task 7"},
+    {"ready": false, "task": "Task 8"},
+    {"ready": false, "task": "Task 9"},
+    {"ready": false, "task": "Task 10"}
   ]
 }
